@@ -1,0 +1,16 @@
+.gifDiv{
+    float: left;
+    padding: 5px;
+}
+
+.container{
+    max-width: 950px;
+}
+
+p{
+    font-weight: bold;
+}
+
+.gif-button{
+    margin: 2px;
+}
